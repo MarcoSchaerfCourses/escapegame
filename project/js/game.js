@@ -81,7 +81,7 @@
                 }
             }
             //case open door when this is open (so it doesn't need a key)
-            if (key === "e") {
+            else if (key === "e") {
                 var pickResult = currentScene.scene.pick(currentScene.scene.pointerX, currentScene.scene.pointerY);
                 var mesh = pickResult.pickedMesh;
                 if (pickResult.hit && pickResult.distance < 2 && getObject(mesh).name.includes("door")) {

@@ -35,6 +35,20 @@ Escape Game is a game where you are a man that has to escape from a building. It
     <td> Shift</td>
     <td> Run </td>
   </tr>
-  
+    
+  <tr>
+    <td> Left Click</td>
+    <td> Bring Object </td>
+  </tr>
+    
+  <tr>
+    <td> F </td>
+    <td> Throw Object </td>
+  </tr>
+    
+  <tr>
+    <td> E </td>
+    <td> Use Object </td>
+  </tr>
 </table>
   

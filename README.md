@@ -1,0 +1,1 @@
+Escape Game is a game where you are a man that has to escape from a building. It is inspired by the popular attractions "Escape rooms" where you are closed inside a room and you have to solve several riddles in order to exit from the room.

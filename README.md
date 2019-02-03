@@ -50,5 +50,10 @@ Escape Game is a game where you are a man that has to escape from a building. It
     <td> E </td>
     <td> Use Object </td>
   </tr>
+      
+  <tr>
+    <td> Esc </td>
+    <td> Pause Game </td>
+  </tr>
 </table>
   

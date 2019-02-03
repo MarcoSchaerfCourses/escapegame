@@ -11,5 +11,30 @@ Escape Game is a game where you are a man that has to escape from a building. It
     <td> Mouse Movement</td>
     <td> Rotate Player </td>
   </tr>
+  <tr>
+    <td> W / Arrow Up</td>
+    <td> Move Forward </td>
+  </tr>  
+  
+  <tr>
+    <td> A / Arrow left</td>
+    <td> Move Left </td>
+  </tr>
+  
+  <tr>
+    <td> S / Arrow Down</td>
+    <td> Move Backward </td>
+  </tr>
+  
+  <tr>
+    <td> D / Arrow Right</td>
+    <td> Move Right </td>
+  </tr>
+  
+  <tr>
+    <td> Shift</td>
+    <td> Run </td>
+  </tr>
+  
 </table>
   

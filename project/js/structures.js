@@ -467,7 +467,7 @@ function Room2() {
     var scene = new BABYLON.Scene(engine);
     scene.collisionEnabled = true;
     scene.gravity = new BABYLON.Vector3(0, -9.81, 0);
-    scene.clearColor = new BABYLON.Color3(1,1,1);
+    scene.clearColor = new BABYLON.Color3(0,0,0);
     var playSound = false;
     var timerSound = new BABYLON.Sound("timer", "sounds/room2/countdown.wav", scene,null,{ loop: true});
 
